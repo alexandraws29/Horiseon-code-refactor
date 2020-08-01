@@ -59,6 +59,12 @@ span {
     background-position: center;
 }
 
+.hero p {
+    color: #ffffff00;
+    font-size: 50px;
+    text-align: center;
+}
+
 /* Content Styling */
 .float-left {
     float: left;
